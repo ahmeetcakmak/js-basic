@@ -1,0 +1,25 @@
+const todoinput = document.getElementById("todo")
+let element;
+
+element = todoinput;
+element = todoinput.classList;
+
+
+// todoinput.classList.add("newClass")
+// todoinput.classList.add("newClass2")
+// todoinput.classList.remove("form-control")
+
+
+
+
+element = todoinput;
+element = todoinput.Placeholder;
+element = todoinput.getAttribute("placeholder");
+
+todoinput.setAttribute("placeholder" , "merhaba")
+todoinput.setAttribute("title" , "input")
+todoinput.removeAttribute("name")
+
+element = todoinput;
+
+console.log(element)
