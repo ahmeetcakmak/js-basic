@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Ahmet Çakmak",
+        "department": "Bilişim",
+        "salary": "3500"
+    },
+    {
+        "name": "Hüseyin Çakmak",
+        "department": "Bilişim",
+        "salary": "2500"
+    },
+    {
+        "name": "Salih Çakmak",
+        "department": "Bilişim",
+        "salary": "5500"
+    }
+
+]
