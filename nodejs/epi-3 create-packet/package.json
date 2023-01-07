@@ -1,0 +1,31 @@
+{
+  "name": "ahmetsajahan-1",
+  "version": "1.0.0",
+  "description": "bu bir deneme projesidir",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "ahmet": "echo 'benim adim ahmet'",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "ahmet",
+    "sajahan",
+    "ahmetsajahan-1"
+  ],
+  "author": "Ahmet çakmak",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^6.8.0",
+    "nodemailer": "^6.8.0",
+    "simple-is": "^0.2.0"
+  
+  
+  },
+  "repository" : {
+    "type": "git",
+    "url": "git@github.com:ahmetcakmakeducation/js-basic.git"
+    
+
+  }
+}
